@@ -5,7 +5,7 @@ Manipulates server System time via OpenAPI Rest service
 
 ## Install
 
-run `cargo install github.com:arturh85/systemtime-rest-rs.git`
+run `cargo install --git https://github.com/arturh85/systemtime-rest-rs.git`
 
 ## Start
 
